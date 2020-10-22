@@ -1,0 +1,85 @@
+body {
+    position: relative;
+    margin: 0;
+}
+
+.background {
+    position: fixed;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-wrap: wrap;
+    background: rgb(20, 97, 128);
+}
+
+.background * {
+    width: 10%;
+    height: 17%;
+    transition: all 2s ease;
+}
+
+.x1 {background: #10082c;}
+.x2 {background: #220f3a;}
+.x3 {background: #181966;}
+.x4 {background: #130d4b;}
+.x5 {background: #131136;}
+.x6 {background: #131644;}
+.x7 {background: #120a27;}
+.x8 {background: #0a082e;}
+.x9 {background: #200022;}
+.x10 {background: #18093a;}
+
+.x11 {background: #18092c;}
+.x12 {background: #130829;}
+.x13 {background: #130231;}
+.x14 {background: #17052c;}
+.x15 {background: #0f0836;}
+.x16 {background: #12093a;}
+.x17 {background: #0a0c36;}
+.x18 {background: #0f0835;}
+.x19 {background: #120c38;}
+.x20 {background: #11072e;}
+
+.x21 {background: #220947;}
+.x22 {background: #0a063f;}
+.x23 {background: #230850;}
+.x24 {background: #27094b;}
+.x25 {background: #130e5a;}
+.x26 {background: #200a55;}
+.x27 {background: #360a5f;}
+.x28 {background: #0b1c49;}
+.x29 {background: #1d1752;}
+.x30 {background: #210f4b;}
+
+.x31 {background: #0d0430;}
+.x32 {background: #1b073a;}
+.x33 {background: #100f53;}
+.x34 {background: #140949;}
+.x35 {background: #1b0761;}
+.x36 {background: #180b94;}
+.x37 {background: #111a50;}
+.x38 {background: #350842;}
+.x39 {background: #250946;}
+.x40 {background: #410837;}
+
+.x41 {background: #350e55;}
+.x42 {background: #250946;}
+.x43 {background: #210b44;}
+.x44 {background: #0d083b;}
+.x45 {background: #160422;}
+.x46 {background: #220530;}
+.x47 {background: #2f0a38;}
+.x48 {background: #27042e;}
+.x49 {background: #160847;}
+.x50 {background: #190742;}
+
+.x51 {background: #2c0833;}
+.x52 {background: #160224;}
+.x53 {background: #200329;}
+.x54 {background: #28052c;}
+.x55 {background: #240731;}
+.x56 {background: #2f0a3a;}
+.x57 {background: #140216;}
+.x58 {background: #200625;}
+.x59 {background: #1d062b;}
+.x60 {background: #100538;}
